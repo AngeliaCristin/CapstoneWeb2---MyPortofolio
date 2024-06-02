@@ -7,4 +7,4 @@ Nama: Angelia Cristin
 ```
 
 Link Website:
-https://angeliacristin.github.io/PortofolioWeb/
+https://angeliacristin.github.io/CapstoneWeb2---MyPortofolio/
